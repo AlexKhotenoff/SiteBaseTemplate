@@ -12,6 +12,22 @@
             "problemMatcher": [
                 "$node-sass"
             ]
+        },
+        {
+            "type": "npm",
+            "script": "scss",
+            "path": ".vscode/",
+            "problemMatcher": [
+                "$node-sass"
+            ]
+        },
+        {
+            "type": "npm",
+            "script": "scssMin",
+            "path": ".vscode/",
+            "problemMatcher": [
+                "$node-sass"
+            ]
         }
     ]
 }

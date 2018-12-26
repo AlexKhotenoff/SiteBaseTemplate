@@ -9,9 +9,12 @@ nav {
 
   li { display: inline-block; }
 
+
   a {
     display: block;
     padding: $padding 12px;
     text-decoration: none;
+    color: red;
+    border: 1px;
   }
 }
